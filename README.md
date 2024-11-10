@@ -1,14 +1,25 @@
 # Mealy-Sequence-Detector-CMOS-90nm
 
+## Power Supplies
+  ### DC Input Supply (Vdc)
+      DC Voltage                 = 1.5 V
+      AC Magnitude               = 0 V
+      Number of Noise/freq pairs = 0
+  ### Input Bit Source (Vbit)
+      Pattern Parameter data     = 100100100
+      Pattern Parameter rptstart = 1
+      Pattern Parameter rpttimes = 0
+      Trigger                    = Internal
+      Number of Periodic Jitters = 0
+      One value                  = 1.5 V
+      Zero Value                 = 0 V
+      Period                     = 18 ns
+      
 ## Key Achievements: 90nm 
-
-### Power Supplies:
- 
- Binary Test Pattern = 100100100
 1. Achieved an Average power consumption(P) of 27.46 x 10 ^ -6 W at Fast Fast(FF) corner Analysis.
 2. Obtained a minimum Propagation Delay(D) of 9.047 ns (Rise to Fall Edge) and 9.057 ns (Fall to Rise Edge).
 
-##Applications:
+## Applications:
 Optimized for Practical Use: Designed for low power, high speed, and reliable operation, suitable for digital pattern recognition applications.
 
 ## **License Terms**
