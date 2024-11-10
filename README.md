@@ -1,10 +1,9 @@
-### Mealy-Sequence-Detector-CMOS-90nm
+#### Mealy-Sequence-Detector-CMOS-90nm
 
-## Key Achievements: 90nm 
+### Key Achievements: 90nm 
 
-Power Supplies
- Input DC Supply(Vdc) = 1.5V
- Input Vbit Voltage (Vbit) = 1.5V
+# Power Supplies:
+ 
  Binary Test Pattern = 100100100
 1. Achieved an Average power consumption(P) of 27.46 x 10 ^ -6 W at Fast Fast(FF) corner Analysis.
 2. Obtained a minimum Propagation Delay(D) of 9.047 ns (Rise to Fall Edge) and 9.057 ns (Fall to Rise Edge).
