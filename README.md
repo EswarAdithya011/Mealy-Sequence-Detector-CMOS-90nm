@@ -1,8 +1,8 @@
 ### Mealy-Sequence-Detector-CMOS-90nm
 
-##Key Achievements: 90nm 
+## Key Achievements: 90nm 
 
-#Power Supplies
+# Power Supplies
  Input DC Supply(Vdc) = 1.5V
  Input Vbit Voltage (Vbit) = 1.5V
  Binary Test Pattern = 100100100
