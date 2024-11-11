@@ -23,7 +23,7 @@
 Optimized for Practical Use: Designed for low power, high speed, and reliable operation, suitable for digital pattern recognition applications.
 
 ## Acknowledgements:
-Special thanks to Sarath Kumar Suda for their valuable contributions to the design and implementation of this project.
+Special thanks to Sarath Kumar Suda(https://github.com/SudaSarath66) for their valuable contributions to the design and implementation of this project.
 
 
 ## **License Terms**
